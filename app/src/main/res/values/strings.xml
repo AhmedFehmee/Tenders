@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tender Cs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_log_in">Log in</string>
+    <string name="title_activity_join__us">Join Us</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_first_category">تخطيط جزء من ترعة الرشيديه</string>
+    <string name="title_activity_news">أحدث الاخبار</string>
+    <string name="title_activity_contact__us">About TenderCs</string>
+    <string name="title_activity_news_describtion">News_describtion</string>
+    <string name="title_activity_chossen_category">chosse categories</string>
+    <string name="title_activity_join">Join Us</string>
+    <string name="title_activity_new">New</string>
+
+</resources>
